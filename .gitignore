@@ -1,0 +1,39 @@
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Playwright
+playwright-typescript/node_modules/
+playwright-typescript/test-results/
+playwright-typescript/playwright-report/
+playwright-typescript/playwright/.cache/
+playwright-typescript/dist/
+
+# Java/Maven
+java-selenium/target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
+
+# Coverage
+coverage/
+
