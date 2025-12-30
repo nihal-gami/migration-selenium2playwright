@@ -4,11 +4,9 @@ A complete example demonstrating the migration of a test automation framework fr
 
 ## 🎬 Demo
 
-https://github.com/user-attachments/assets/demo.mp4
+https://github.com/nihal-gami/migration-selenium2playwright/raw/main/assets/demo.mp4
 
-<video src="assets/demo.mp4" controls width="100%"></video>
-
-> *Click to watch the migration demo video*
+> 👆 *Click the link above to download/watch the demo video*
 
 ## 📂 Project Structure
 
