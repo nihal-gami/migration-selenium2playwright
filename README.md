@@ -2,6 +2,14 @@
 
 A complete example demonstrating the migration of a test automation framework from **Selenium Java** to **Playwright TypeScript**.
 
+## 🎬 Demo
+
+https://github.com/user-attachments/assets/demo.mp4
+
+<video src="assets/demo.mp4" controls width="100%"></video>
+
+> *Click to watch the migration demo video*
+
 ## 📂 Project Structure
 
 ```
